@@ -4,9 +4,9 @@
     background-color: #FFFFFF;
     list-style-type: none;
     text-align: center;
-    width: 1000px;
+    width: 100%;
     top: 0px;
-    margin-left: 0px;
+    margin-left: -140px;
     height: 40px;
 }
 ul li a:link {

@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+.TOP-NAV {
+    background-color: #FFFFFF;
+    list-style-type: none;
+    text-align: center;
+    width: 1000px;
+    top: 0px;
+    margin-left: 0px;
+    height: 40px;
+}
+ul li a:link {
+    color: white
+}
+ul li a:hover  {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+a {
+    color: #FFFFFF;
+}
+
+li {
+    float: left;
+    color: #FFFFFF;
+}
+
+li a {
+    display: block;
+
+  color: black
+  text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
